@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-const WHATSAPP_NUMBER = "916006763367";
+const WHATSAPP_NUMBER = "919810650991";
 const PRE_FILLED_MESSAGE = encodeURIComponent(
   "Hello! I'm interested in your corporate gifting solutions. Could you please share more details about your products, customization options, and pricing for bulk orders?"
 );
